@@ -1,6 +1,6 @@
 # SMS Spam Detection with Basic NLP
 
-Project status: Proposal written — see proposal.md
+Project status: Proposal written (see proposal.md) — data collection in progress
 
 ## Overview
 
