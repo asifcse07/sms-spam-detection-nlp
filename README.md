@@ -1,6 +1,6 @@
 # SMS Spam Detection with Basic NLP
 
-Project status: Proposal stage
+Project status: Data collection in progress
 
 ## Overview
 
