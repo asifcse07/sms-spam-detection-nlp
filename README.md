@@ -1,6 +1,6 @@
 # SMS Spam Detection with Basic NLP
 
-Project status: Proposal written (see proposal.md) — data collection in progress
+Project status: Experiment complete — see experiment.ipynb (literature_review.md, methodology.md)
 
 ## Overview
 
@@ -21,6 +21,9 @@ from the UCI Machine Learning Repository — 5,574 English SMS messages labelled
 .
 ├── data/            # dataset instructions (raw data is git-ignored)
 ├── proposal.md      # research proposal (added on the `proposal` branch)
+├── literature_review.md  # summaries of 5 related papers
+├── methodology.md   # refined question, data, features, models, metrics
+├── experiment.ipynb # cleaning, features, model training and evaluation
 ├── CONFLICT_NOTES.md
 └── README.md
 ```
